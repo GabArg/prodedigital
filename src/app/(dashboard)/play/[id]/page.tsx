@@ -1,5 +1,8 @@
 import { Metadata, ResolvingMetadata } from 'next';
 import { DataService } from '@/services/dataService';
+
+export const dynamic = 'force-dynamic';
+
 import PlayClient from './PlayClient';
 import { notFound } from 'next/navigation';
 

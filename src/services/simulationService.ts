@@ -1,4 +1,4 @@
-import { CompetitionDB, ProdeSlipDB, UserPredictionDB } from './dataService';
+import { CompetitionDB, ProdeSlipDB, UserPredictionDB } from './types';
 
 // --- MOCK DATA ---
 const MOCK_USERS = [

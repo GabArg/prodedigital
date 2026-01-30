@@ -1,0 +1,1 @@
+ALTER TABLE public.matches ALTER COLUMN slip_id DROP NOT NULL;
